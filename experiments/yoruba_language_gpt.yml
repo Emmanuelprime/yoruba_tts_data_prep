@@ -43,7 +43,7 @@ datasets:
     conditioning_length: 44000
     use_bpe_tokenizer: True
     load_aligned_codes: False
-    tokenizer_vocab: ../../yoruba_language_tokenizer.json
+    tokenizer_vocab: ../../yoruba_tts/yoruba_language_tokenizer.json
 
 
 steps:        
