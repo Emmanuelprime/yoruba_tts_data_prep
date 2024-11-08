@@ -14,7 +14,8 @@ _letters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz' \
            'áéíóúàèìòùÁÉÍÓÚÀÈÌÒÙ' \
            'ẹọṣńẸỌṢŃ' \
            'ẹ́ọ́ṣ́ń́Ẹ́Ọ́Ṣ́Ń́' \
-           'ẹ̀ọ̀ṣ̀ń̀Ẹ̀Ọ̀Ṣ̀Ń̀'
+           'ẹ̀ọ̀ṣ̀ń̀Ẹ̀Ọ̀Ṣ̀Ń̀' \
+           'áàâéèêíìóòôúụùûńňśṣ́ẃṛĺḷẹọǹọ́ṣ̀ọ̀Ẹ́Ọ̀ạáǽĕíńŏóṕŕṡ́ṯ́ǜǝ'
 
 
 # Prepend "@" to ARPAbet symbols to ensure uniqueness (some are the same as uppercase letters):
