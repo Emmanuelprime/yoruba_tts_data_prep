@@ -11,6 +11,7 @@ munch
 tqdm
 scp
 tensorboard
+TTS
 orjson
 einops
 lambda-networks
